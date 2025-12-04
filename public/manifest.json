@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "KeTag",
+  "version": "1.0.0",
+  "description": "轻量级个人导航页，自由布局，隐私优先",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "icons": {
+    "16": "16.ico",
+    "48": "48.ico",
+    "128": "128.ico"
+  },
+  "permissions": []
+}
