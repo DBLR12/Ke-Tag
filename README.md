@@ -66,20 +66,13 @@ KeTag 是一个基于 **React + Vite + TailwindCSS** 构建的浏览器新标签
 - Node.js 18+
 - npm 或 pnpm
 
-### 1. 克隆项目
 
-```bash
-git clone https://github.com/your-username/KeTag.git
-cd KeTag/ketag-web-ext
-```
-
-### 2. 安装依赖
-
+### 1. 安装依赖
 ```bash
 npm install
 ```
 
-### 3. 开发模式
+### 2. 开发模式
 
 ```bash
 npm run dev
@@ -87,7 +80,7 @@ npm run dev
 
 启动本地开发服务器，在浏览器中预览和调试。
 
-### 4. 构建生产版本
+### 3. 构建生产版本
 
 ```bash
 npm run build
